@@ -1,21 +1,24 @@
-def anti_vowel(text):
+def is_vovel(character):
     vovels = "aeiouAEIOU"
-    text_list = list(text)
-    
-    for letter in text_list:
-        for vovel in vovels:
-            if letter == vovel:
-                #remove from text_list
-                index = text_list.index(letter)
-                #text_list.remove(index)
-                print index
-        
-    new_text = "".join(text_list)   
+    for v in vovels:
+        if v == character:
+            return True
+    else:
+        return False
+
+def anti_vowel(text):
+
+    letters_list = []
+    for letter in text:
+        if not is_vovel(letter):
+            letters_list.append(letter)
+
+    new_text = "".join(letters_list)
     return new_text
 
-#testing function
-textes = ["ABCDEFG", "QWERETYUIOP", "Help me!"]
+#Testing
+chars = ['a', 'b', 'c', 'd', 'e']
+for c in chars:
+    print c, " is a vovel: ", is_vovel(c)
 
-for t in textes:
-    print "Testing: %s" %t, "anti_vowel: ", anti_vowel(t)
-    
+print anti_vowel("Hey look Words!")
