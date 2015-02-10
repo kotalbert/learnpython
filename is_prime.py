@@ -1,12 +1,23 @@
 def is_prime(x):
     if x > 2:
         #Prime finding algorithm
-        while i < x:
+        n = x
+        while n > 2:
+            n -= 1
             if x%n == 0:
-                return True
+                return False
                 break
         else:
-            return False
+            return True
     else:
-        return False
-        
+        if x == 2:
+            return True
+        else:
+            return False
+
+#testing function
+    
+rng = range(0,10)
+for n in rng:
+    print "Testing: %d" %n, "is prime: ", is_prime(n)
+    
