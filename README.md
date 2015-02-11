@@ -21,3 +21,5 @@ Programs created for Codecademy assignments.
 0. remove_duplicates.py
 0. median.py
 0. grades.py
+0. dicts.py
+0. lambdas.py
