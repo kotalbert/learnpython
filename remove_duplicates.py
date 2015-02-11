@@ -27,14 +27,14 @@ def list_test(a):
     list = [1,2,3,4]
     print "Argument %d on the list: " %a, arg_on_list(a, list)
 
-"""
+
 list_test(1)
 list_test(8)
 list_test(2)
 list_test(9)
 list_test(3)
 list_test(10)
-"""
+
 
 def remove_test(args):
     print "Input: ", args, "Output: ", remove_duplicates(args)
