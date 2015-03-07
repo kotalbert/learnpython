@@ -1,3 +1,10 @@
+"""
+Programming for Everybody (Python)
+Assignment 4.6
+
+Calculate total pay.
+"""
+
 def computepay(h,r):
     
     try:

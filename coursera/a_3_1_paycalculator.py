@@ -1,3 +1,10 @@
+"""
+Programming for Everybody (Python)
+Assignment 3.1
+
+Calculate total pay.
+"""
+
 hrs = raw_input("Enter Hours:")
 h = float(hrs)
 rate = raw_input("Enter Rate:")

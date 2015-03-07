@@ -1,3 +1,10 @@
+"""
+Programming for Everybody (Python)
+Assignment 3.3
+
+Calculate grade based on score input.
+"""
+
 inp = raw_input("Enter score between 0.0 and 1.0:")
 try:
     score = float(inp)

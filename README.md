@@ -32,12 +32,14 @@ Programs created for Codecademy assignments.
 
 Coursera assignments, submitted for the [Programming for Everybody (Python)](https://www.coursera.org/course/pythonlearn) course
 
-0. a3\_1\_paycalculator.py
-0. a3\_3\_score.py
+0. a\_3\_1\_paycalculator.py
+0. a\_3\_3\_score.py
+0. a\_4\_6\_computepay.py
+0. a\_5\_2\_finding\_numbers.py
 
 ## Utility programs
 
 Programs written for a certain task
 
 0. print_range.py				# Checking the ranges
-0. files_efficiency_test.py		#Test R vs. Python file operation speed.
+0. files\_efficiency_test.py		#Test R vs. Python file operation speed.
