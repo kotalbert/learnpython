@@ -3,7 +3,6 @@
 
 ## Summary
 This is a repo for storing the Python programs I've created during on-line courses. 
->>> This was added after reinstall.
 
 ## Codecademy Programs:
 
@@ -36,10 +35,17 @@ Coursera assignments, submitted for the [Programming for Everybody (Python)](htt
 0. a\_3\_3\_score.py
 0. a\_4\_6\_computepay.py
 0. a\_5\_2\_finding\_numbers.py
+0. a\_6\_5\_string.py
 
 ## Utility programs
 
 Programs written for a certain task
 
 0. print_range.py				# Checking the ranges
-0. files\_efficiency_test.py		#Test R vs. Python file operation speed.
+0. files\_efficiency_test.py	#Test R vs. Python file operation speed.
+0. body.py
+0. header.py
+
+## Other
+
+0. collatz.py

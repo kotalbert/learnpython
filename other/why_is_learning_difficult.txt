@@ -1,0 +1,17 @@
+Learning Python is not my first encounter with programming - I've first learned the basics of C++ as one of the subjects at my University. Then my first job required some programming in Visual Basic and SQL querying. I've also taught myself a little Java and was trained in scripting languages that are present in statistical software I use for my work.
+
+Programming is not something that is necessary in my daily life and I don't consider myself a programmer, rather a dedicated hobbyist, although I feel confident when working with a computer, writing a program or interact with "real" programmers. I consider this a biggest benefit of learning the principles of programming.
+
+The hardest thing when first learning programming was to actually switch from human concept-based thinking to the way the computers operate, "think", or "perceive the world" - that is in detailed, algorithmic way, without leaving anything unexplained or undefined. Then it is possible to translate ideas expressed in natural language into the set of instructions and commands for the computer to execute.
+
+Secondly, when the basics have been mastered, the new challenges arose. How to actually manage complexity of problem and not get lost in the code I've written over some period of time. Improving my program management skills required a lot actual work, learning and fixing "spaghetti code" that emerged, when I worked on a problem for some time. Proper naming of the variables and functions, separating the bits of problem into separate pieces of code - these were all lessons learned - the hard way.
+
+Finally, I've discovered that computer programming is such an extensive subject, that it's not possible to learn or even remember every aspect of it. I've had actually to learn how to successfully search for knowledge, understand technical documentation and where in the valuable resources can be found on the Internet.
+
+In my opinion, learning the language syntax is a least of concerns - it can be always looked up in manual or in the Internet, and I think anyone can write simple programs in any language they choose, after a little learning. The real challenge is to actually be able to express the ideas in the form acceptable by the computer and then managing the program that has been written.
+
+There is a book by Steve McConnell, "Code Complete"[1] that helped me shape this view of the nature of computer programming, therefore I would like to recommend it for anyone interested in principles of programming, rather just learning the syntax.
+
+This is excellent next step for anyone interested in becoming a better programmer - if I knew it on the beginning of my computer experience - it would saved me a lot of trouble learning many things the hard way.
+
+Steve McConnell (2004). Code Complete: A Practical Handbook of Software Construction, Second Edition. Microsoft Press, Redmond
